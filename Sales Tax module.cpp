@@ -1,7 +1,7 @@
 /*
 
 File Name:SalesTaxModule.cpp
-Github URL:
+Github URL: https://github.com/MS3NSEI/Sales-Tax-module.git
 Programmer: LaMar Brown
 Date: January 2025
 Requirement
@@ -24,7 +24,7 @@ int main()
     int tax2 = 2;
     int answer;
     answer = number1 + tax1 * tax2;
-    cout << "the total of a " << number1 << " dollar purchase with " << tax1 << " percent state sales tax and " << tax2 << " percent county sales tax is" << answer << "\n";
+    cout << "the total of a " << number1 << " dollar purchase with " << tax1 << " percent state sales tax and " << tax2 << " percent county sales tax is " << answer << "\n";
     return answer; 
 
 
